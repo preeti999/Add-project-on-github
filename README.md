@@ -16,15 +16,19 @@ This mini-guide will help you to add a project on Github:
    ```
    "git add ."
    ```
-7. Copy the HTTPS URL of your newly created repository
-8. In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
+7. Commit the files that you’ve staged in your local repository.
+   ```
+   "git commit -m "commit message" "
+   ```
+8. Copy the HTTPS URL of your newly created repository
+9. In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
    ```
    "git remote add origin remote repository URL"
    ```
    ```
    "git remote -v"
    ```
-9. Push the changes in your local repository to GitHub.
+10. Push the changes in your local repository to GitHub.
    ```
    "git push"
    ```
