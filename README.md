@@ -32,3 +32,9 @@ This mini-guide will help you to add a project on Github:
    ```
    "git push"
    ```
+   OR
+
+   "git push YOUR PERSONAL ACCESS TOKEN"
+
+11. To generate personal access token
+   -- Git Setting >> developer option >> Personal access token
